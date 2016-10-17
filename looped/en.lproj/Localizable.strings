@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  looped
+
+  Created by Divya Khanna on 10/17/16.
+  Copyright © 2016 Divya Khanna. All rights reserved.
+*/
+
+// Common Strings - Alerts
+
+"emptyLoginCredentials" = "Please enter login credentials.";
+"correctEmail" = "Please enter correct Email Address.";

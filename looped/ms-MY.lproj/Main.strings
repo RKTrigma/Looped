@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "EMAIL ADDRESS"; ObjectID = "58e-7Q-STS"; */
+"58e-7Q-STS.placeholder" = "EMAIL ADDRESS";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "Gdq-2D-wMC"; */
+"Gdq-2D-wMC.placeholder" = "PASSWORD";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "bSS-Nw-2tY"; */
+"bSS-Nw-2tY.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "SET-UP A NEW ACCOUNT"; ObjectID = "mp6-sb-FtF"; */
+"mp6-sb-FtF.normalTitle" = "SET-UP A NEW ACCOUNT";
