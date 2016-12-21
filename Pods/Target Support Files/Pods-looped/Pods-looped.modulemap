@@ -1,6 +1,0 @@
-framework module Pods_looped {
-  umbrella header "Pods-looped-umbrella.h"
-
-  export *
-  module * { export * }
-}
